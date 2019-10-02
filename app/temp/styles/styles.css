@@ -125,6 +125,10 @@ a {
         background-color: #2f5572;
         color: #fff;
     }
+.page-section--testimonials {
+        background-image: url(../../images/testimonials-bg.jpg);
+        background-size: cover;
+    }
 .headline {
     font-size: 1.9rem;
     font-weight: 300;
